@@ -1,0 +1,40 @@
+In the markdown file I could use those to edit my file
+
+ - <center>test</center> test in the center  # <center>test</center> and blod
+   (<div align="center">text</div> only for one paragraph)
+ - ![Alt Text](image link) add image
+ - ![](https://placehold.it/15/f03c15/000000?text=+) test add a tiny red square
+   ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)  add a tiny green square
+   ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) add a tiny blue square
+ - <font color="blue">This is some text!</font> change the color of text
+ - > text.
+   > text
+  "Quote" break.
+   > text
+- [This text goes to the website!](http://...)   link
+- bullet list:
+### shopping list pt 1
+
+* allen wrenches
+* gerbil feeders
+* toilet seats
+* electric heaters
+* Trash compactors
+* juice extractor
+* shower rods and water meters
+***
+### shopping list pt 2
+
+1. Walkie-talkies
+- copper wires safety goggles
+- radial tires
+***
+### shopping list pt 3
+- [x] BB pellets
+- [ ] rubber mallets
+- [ ] fans and dehumidifiers
+***
+### shopping list pt 4
+* Picture hangers
+ * paper cutters
+  * waffle irons
